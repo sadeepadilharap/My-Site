@@ -1,5 +1,14 @@
 /**********************Tag Selectors**********************/
-body{
+body {
+    background-color: white;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+div {
     background-color: #DBE2EF;
 }
 
@@ -8,13 +17,10 @@ body{
 
 /**********************Class Selectors**********************/
 
-
+.city {
+    margin: 20px;
+    width: 50% ;
+}
 
 
 /**********************ID Selectors**********************/
-
-
-
-
-
-
